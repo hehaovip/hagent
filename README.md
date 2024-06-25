@@ -4,12 +4,22 @@
 
 任务发布：
 1，利用各类大模型api的funcation calling功能。
+
 2，langchain，metagpt，metagen框架实践的智能体相关应用和demo欢迎提交。
+
 3，text2sql应用功能
+
 4，软件可视化智能体。
+
 5，软件需求生成智能体。
+
 6，代码debug智能体demo。
+
 7，提示词解决方案。
+
 8，思考连解决方案。
+
 9，创建的其他智能体工具提交。
+
+
 
